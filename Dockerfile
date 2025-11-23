@@ -1,6 +1,5 @@
 # Dockerfile
 # bhavesh nabhani
-# mamta choudhary
 
 FROM mysql:8.0
 
